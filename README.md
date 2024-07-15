@@ -10,4 +10,4 @@ So far, unless this readme isn't up to date (which, I must admit, is a possibili
 * A script that uses householder transformations to compute a Hessenberg matrix that is similar to the original matrix A.
 * A script that uses householder transformations to get the QR decomposition of a matrix (this could be more efficient if the matrix is a Hessenberg one, this code simply illustrates the method).
 * A script that uses QR decomposition for the purpose of computing the eigenvalues of a matrix using the QR iteration.
-* This README :).
+* This README :)..
