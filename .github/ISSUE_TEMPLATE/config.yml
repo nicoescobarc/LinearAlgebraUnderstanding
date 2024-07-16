@@ -1,4 +1,4 @@
-blank_issues_enabled: # false or true
+blank_issues_enabled: false
 contact_links:
   - name: Ask Google
     url: https://www.google.com/
