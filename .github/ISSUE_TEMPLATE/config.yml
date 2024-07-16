@@ -1,5 +1,5 @@
-blank_issues_enabled: false
+blank_issues_enabled: # false or true
 contact_links:
-    name: Google
+  - name: Ask Google
     url: https://www.google.com/
-    about: RTFM!!
+    about: DESCRIPTION
