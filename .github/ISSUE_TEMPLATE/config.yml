@@ -1,5 +1,5 @@
 blank_issues_enabled: false
-contact_links:
-  - name: Google
-    url: www.Google.com
+contact_links: www.google.com
+    name: Google
+    url: www.google.com
     about: RTFM!!
